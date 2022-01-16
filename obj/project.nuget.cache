@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNam1cfqCWPe0jIS+l5wNg88+8a4B8561G4lT2CXplgl4JV/meHV2dxL/WUoP/m7CIC91vFXH+a2iJfGA4Fzig==",
+  "success": true,
+  "projectFilePath": "F:\\antlr-learn\\antlr-learn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\null\\.nuget\\packages\\antlr4.runtime.standard\\4.9.3\\antlr4.runtime.standard.4.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
